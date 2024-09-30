@@ -1,4 +1,4 @@
-# Sna3ti_public_repo
+# My Craft
 ![indexPage](https://github.com/mohammedMesbahi/MYCRAFT/assets/116631139/764beb9d-9d2b-4640-9dcb-e9523db71a90)
 
 ![image](https://github.com/mohammedMesbahi/MYCRAFT-frontend/assets/116631139/83a9f2a6-4088-44f4-9bfd-fe49fc7f9f45)
